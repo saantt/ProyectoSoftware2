@@ -1,5 +1,4 @@
-    package co.edu.uniquindio.proyecto.demo.model.enums;
-
+package co.edu.uniquindio.proyecto.demo.model.enums;
 public enum Ciudad {
     BOGOTA,
     MEDELLIN,
